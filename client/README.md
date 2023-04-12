@@ -9,3 +9,8 @@ $ npm install react-router-dom
 ```
 $ npm install sass
 ```
+
+## React-Quill
+```
+# npm install react-quill
+```

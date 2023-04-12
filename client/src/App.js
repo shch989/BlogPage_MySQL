@@ -1,11 +1,5 @@
 import React, { Fragment } from 'react'
-import {
-  createBrowserRouter,
-  RouterProvider,
-  Route,
-  Link,
-  Outlet,
-} from 'react-router-dom'
+import { createBrowserRouter, RouterProvider, Outlet } from 'react-router-dom'
 // pages
 import Register from './pages/Register'
 import Login from './pages/Login'
